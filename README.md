@@ -34,7 +34,8 @@ These dependencies are defined in the `pom.xml` file.
 
 ## Usage
 
-To run the Process Monitor application, execute the following command:
+You can download the file from this repository and run it from your PC or Mac locally.
 
-```sh
-java -cp [process-monitor-1.0-SNAPSHOT.jar](http://_vscodecontentref_/6) com.example.Main
+1. Go to green button that says "Code"
+2. "Download Zip"
+3. Extract and run `ProcessMonitor.java` on a prefered IDE.
